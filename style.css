@@ -1,0 +1,11 @@
+*{
+    margin: 20px;
+    padding: auto;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+}
+.header{
+    color: blue;
+    padding: 20px;
+    background-color:blueviolet;
+}
