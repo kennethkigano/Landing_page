@@ -2,10 +2,45 @@
     margin: 20px;
     padding: auto;
     box-sizing: border-box;
-    background-color: blanchedalmond;
+
+
 }
 .header{
     color: blue;
     padding: 20px;
     background-color:blueviolet;
+
+}
+.nav_container{
+    color: aqua;
+    display: flex;
+
+}
+.logo{
+    color: aliceblue;
+}
+.top_head{
+    padding: 20px;
+    display: flex;
+    height: 150px;
+    background-color: azure;
+    align-items: center;
+}
+.box_ranged{
+    padding: auto;
+    margin: 20px;
+    display: flex;
+    height: 500px;
+    border: 10px;
+    background-color: darkgray;
+}
+.second_top{
+    padding: auto;
+}
+.middle{
+    color: aquamarine;
+
+}
+.footer{
+    padding: 30px;
 }
